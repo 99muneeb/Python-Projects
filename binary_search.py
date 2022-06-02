@@ -16,7 +16,7 @@ import tkinter as tk
 window=Tk()
 # Set the size of the tkinter windowdow
 window.geometry("700x350")
-window.title("PythonGeeks")#give title to the window
+window.title("Python Developer")#give title to the window
 head=Label(window, text="Let's perform Binary Search", font=('Calibri 15'))# a label
 head.pack(pady=20)
 Label(window, text="Enter a Sorted List", font=('Calibri')).pack()# a label 
